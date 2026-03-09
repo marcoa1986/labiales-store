@@ -1,4 +1,3 @@
-
 {
   "name": "labiales-ecommerce",
   "private": true,
@@ -14,6 +13,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^4.4.0"
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
   }
 }
